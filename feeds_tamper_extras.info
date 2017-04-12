@@ -1,0 +1,11 @@
+name = Feeds Tamper Extras
+description = Feeds Tamper Plus plugins and automatic feeds importer/tamper export installer
+package = Feeds
+version = VERSION
+core = 7.x
+
+dependencies[] = feeds
+dependencies[] = feeds_tamper
+
+
+
